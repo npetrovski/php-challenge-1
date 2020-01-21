@@ -54,7 +54,7 @@ $c = serialize($test); // O:4:"Test":1:{s:8:"variable";s:23:"a:1:{i:0;s:6:"fooba
 
 Execute Find/Replace: `foobar => foobarbas`
 
-Expected Result: `O:4:"Test":1:{s:8:"variable";s:23:"a:1:{i:0;s:6:"foobar";}";} => O:4:"Test":1:{s:8:"variable";s:26:"a:1:{i:0;s:9:"foobarbas";}";}`
+Expected Result: `O:4:"Test":1:{s:8:"variable";s:26:"a:1:{i:0;s:9:"foobarbas";}";}`
 
 > **Hint:** Keep in mind how: `s:23` is changed to `s:26` and `s:6` is changed to `s:9`
 
