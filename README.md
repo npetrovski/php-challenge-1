@@ -55,7 +55,7 @@ Execute Find/Replace: `foobar => foobarbas`
 
 Expected Result: `O:4:"Test":1:{s:8:"variable";s:26:"a:1:{i:0;s:9:"foobarbas";}";}`
 
-> **Hint:** Keep in mind how: `s:23` is changed to `s:26` and `s:6` is changed to `s:9`
+> **Hint:** Keep in mind how `s:23` is changed to `s:26` and `s:6` is changed to `s:9`
 
 ## Validation
 
@@ -68,7 +68,7 @@ Expected Result: `O:4:"Test":1:{s:8:"variable";s:26:"a:1:{i:0;s:9:"foobarbas";}"
 2) Code style (variables naming convension, code commentary, code readiness)
 3) Code execution performance
 
-## How do you send your solution?
+## How do you submit your solution?
 
 1) Fork this project repository (Fork this repository by clicking on the fork button on the top of this page)
 2) Clone the repository in your local machine
