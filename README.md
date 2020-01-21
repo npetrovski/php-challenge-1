@@ -67,3 +67,12 @@ Expected Result: `O:4:"Test":1:{s:8:"variable";s:26:"a:1:{i:0;s:9:"foobarbas";}"
 1) Unit tests shoud pass
 2) Code style (variables naming convension, code commentary, code readiness)
 3) Code execution performance
+
+## How do you send your solution?
+
+1) Fork this project repository (Fork this repository by clicking on the fork button on the top of this page)
+2) Clone the repository in your local machine
+3) Create a branch **by using your name**
+4) Make necessary changes and commit those changes
+5) Push changes to GitHub
+6) Submit your changes for review
