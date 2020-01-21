@@ -5,8 +5,7 @@
 > **Summary**: Write a script/function `strtr_serialized` that will replace PHP serialized data *without using **serialize**/**unserialize** functions*
 
 
-What is needed is a function that replaces serialized data. 
-_Only for string type_ replacement is required.
+_What is needed is a function that replaces strings in serialized data._
 
 
 Examples:
