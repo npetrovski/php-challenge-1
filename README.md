@@ -62,3 +62,9 @@ Expected Result: `O:4:"Test":1:{s:8:"variable";s:23:"a:1:{i:0;s:6:"foobar";}";} 
 
 1) The PHPUnit tests in this project should not be changed.  
 2) All PHPUnit tests in the project should pass.
+
+## What do we evaluate?
+
+1) Unit tests shoud pass
+2) Code style (variables naming convension, code commentary, code readiness)
+3) Code execution performance
